@@ -1,4 +1,5 @@
 # JavaScript_Day1_Intro2
+### Create a new file for each exercise
 
 #### Exercise 4
 Prints “It’s a great day today”. Ask the user “What is your name?. Print “Hello [NAME]”
